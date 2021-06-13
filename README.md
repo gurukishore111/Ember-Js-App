@@ -1,5 +1,8 @@
 # ember-js
 
+<img width="751" alt="Screenshot 2021-06-13 at 3 16 48 PM" src="https://user-images.githubusercontent.com/52570524/121802649-00a78180-cc5b-11eb-98ab-f41a5c01865f.png">
+
+
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
 
