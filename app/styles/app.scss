@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Lato:300,300italic,400,700,700italic);
-
+@import 'modal';
+@import url(https://fonts.googleapis.com/css?family=Poppins:300,300italic,400,700,700italic);
 /**
  * Base Elements
  */
@@ -21,7 +21,7 @@ div,
 span,
 a,
 button {
-  font-family: 'Lato', 'Open Sans', 'Helvetica Neue', 'Segoe UI', Helvetica,
+  font-family: 'Poppins', 'Open Sans', 'Helvetica Neue', 'Segoe UI', Helvetica,
     Arial, sans-serif;
   line-height: 1.5;
 }
