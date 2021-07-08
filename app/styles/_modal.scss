@@ -80,13 +80,13 @@ input {
 input[type='submit'] {
   display: inline-block;
   width: fit-content;
+  cursor: pointer;
 }
 
 input[type='submit']:disabled {
   display: inline-block;
   width: fit-content;
   opacity: 0.3;
-  cursor: pointer;
 }
 
 .form-title {
